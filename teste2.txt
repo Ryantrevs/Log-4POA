@@ -1,0 +1,3 @@
+"GET /alo.html HTTP/1.0" 200 2326 || Acessado - 14 vezes
+"GET /sair.html HTTP/1.0" 200 2326 || Acessado - 7 vezes
+"GET /apache_pb.gif HTTP/1.0" 200 2326 || Acessado - 3 vezes
